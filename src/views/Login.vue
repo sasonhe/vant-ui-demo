@@ -11,7 +11,7 @@
           class="border"
           :border="false"
           ref="username"
-          v-model="username"
+          v-model="user.username"
           left-icon="manager"
           clearable
           placeholder="请输入账号"
@@ -21,7 +21,7 @@
         <van-field
           ref="password"
           :border="false"
-          v-model="password"
+          v-model="user.password"
           :type="passeye?'password':'text'"
           left-icon="lock"
           :right-icon="passeye?'eye-o':'closed-eye'"
@@ -44,11 +44,14 @@ export default {
   data() {
     return {
       bg: require('@/assets/login/loginbg.jpg'),
-      username: '',
-      password:'',
+      user:{
+        username: '10002',
+        password:'123456',
+      },
       passeye:true,
       loading:false,
-      disabled:false
+      disabled:false,
+      redirect:undefined
     }
   },
   created() {},
@@ -57,24 +60,39 @@ export default {
       this.passeye = !this.passeye
     },
     submit(){
-      if (this.username == '') {
+      if (this.user.username == '') {
         this.$toast('请输入账号')
         this.$refs.username.focus()
         return false;
-      }else if (this.password == '') {
+      }else if (this.user.password == '') {
         this.$toast('请输入密码');
         this.$refs.password.focus()
         return false;
       }
       this.loading = true
       this.disabled = true
-      setTimeout(()=>{
+      this.$store.dispatch('user/login', this.user).then((res) => {
+        console.log(res)
+        this.$router.push({ path: this.redirect || '/' })
         this.loading = false
         this.disabled = false
         this.$toast.success('登录成功');
-      },3000)
+      }).catch((err) => {
+        console.log(err);
+        this.loading = false
+        this.disabled = false
+        this.$toast.fail('登录失败');
+      })
     }
-  }
+  },
+  watch: {
+      '$route': {
+        handler: function(route) {
+          this.redirect = route.query && route.query.redirect
+        },
+        immediate: true
+      }
+    },
 }
 </script>
 
