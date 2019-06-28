@@ -1,0 +1,2328 @@
+[{
+  "code": "冀A",
+  "province": "河北",
+  "city": "石家庄",
+  "Pcode": "HB",
+  "placeCode": "130100"
+}, {
+  "code": "冀B",
+  "province": "河北",
+  "city": "唐山",
+  "Pcode": "HB",
+  "placeCode": "130200"
+}, {
+  "code": "冀C",
+  "province": "河北",
+  "city": "秦皇岛",
+  "Pcode": "HB",
+  "placeCode": "130300"
+}, {
+  "code": "冀D",
+  "province": "河北",
+  "city": "邯郸",
+  "Pcode": "HB",
+  "placeCode": "130421"
+}, {
+  "code": "冀E",
+  "province": "河北",
+  "city": "邢台",
+  "Pcode": "HB",
+  "placeCode": "130521"
+}, {
+  "code": "冀F",
+  "province": "河北",
+  "city": "保定",
+  "Pcode": "HB",
+  "placeCode": "130600"
+}, {
+  "code": "冀G",
+  "province": "河北",
+  "city": "张家口",
+  "Pcode": "HB",
+  "placeCode": "130700"
+}, {
+  "code": "冀H",
+  "province": "河北",
+  "city": "承德",
+  "Pcode": "HB",
+  "placeCode": "130821"
+}, {
+  "code": "冀J",
+  "province": "河北",
+  "city": "沧州",
+  "Pcode": "HB",
+  "placeCode": "130900"
+}, {
+  "code": "冀R",
+  "province": "河北",
+  "city": "廊坊",
+  "Pcode": "HB",
+  "placeCode": "131000"
+}, {
+  "code": "冀S",
+  "province": "河北",
+  "city": "沧州",
+  "Pcode": "HB",
+  "placeCode": "130900"
+}, {
+  "code": "冀T",
+  "province": "河北",
+  "city": "衡水",
+  "Pcode": "HB",
+  "placeCode": "131100"
+}, {
+  "code": "辽A",
+  "province": "辽宁",
+  "city": "沈阳",
+  "Pcode": "LN",
+  "placeCode": "210100"
+}, {
+  "code": "辽B",
+  "province": "辽宁",
+  "city": "大连",
+  "Pcode": "LN",
+  "placeCode": "231182"
+}, {
+  "code": "辽C",
+  "province": "辽宁",
+  "city": "鞍山",
+  "Pcode": "LN",
+  "placeCode": "340500"
+}, {
+  "code": "辽D",
+  "province": "辽宁",
+  "city": "抚顺",
+  "Pcode": "LN",
+  "placeCode": "210400"
+}, {
+  "code": "辽E",
+  "province": "辽宁",
+  "city": "本溪",
+  "Pcode": "LN",
+  "placeCode": "210521"
+}, {
+  "code": "辽F",
+  "province": "辽宁",
+  "city": "丹东",
+  "Pcode": "LN",
+  "placeCode": "210600"
+}, {
+  "code": "辽G",
+  "province": "辽宁",
+  "city": "锦州",
+  "Pcode": "LN",
+  "placeCode": "210700"
+}, {
+  "code": "辽H",
+  "province": "辽宁",
+  "city": "营口",
+  "Pcode": "LN",
+  "placeCode": "210800"
+}, {
+  "code": "辽J",
+  "province": "辽宁",
+  "city": "阜新",
+  "Pcode": "LN",
+  "placeCode": "210900"
+}, {
+  "code": "辽K",
+  "province": "辽宁",
+  "city": "辽阳",
+  "Pcode": "LN",
+  "placeCode": "211021"
+}, {
+  "code": "辽L",
+  "province": "辽宁",
+  "city": "盘锦",
+  "Pcode": "LN",
+  "placeCode": "211100"
+}, {
+  "code": "辽M",
+  "province": "辽宁",
+  "city": "铁岭",
+  "Pcode": "LN",
+  "placeCode": "211200"
+}, {
+  "code": "辽N",
+  "province": "辽宁",
+  "city": "朝阳",
+  "Pcode": "LN",
+  "placeCode": "211300"
+}, {
+  "code": "辽P",
+  "province": "辽宁",
+  "city": "葫芦岛",
+  "Pcode": "LN",
+  "placeCode": "211400"
+}, {
+  "code": "皖A",
+  "province": "安徽",
+  "city": "合肥",
+  "Pcode": "AH",
+  "placeCode": "340100"
+}, {
+  "code": "皖B",
+  "province": "安徽",
+  "city": "芜湖",
+  "Pcode": "AH",
+  "placeCode": "340221"
+}, {
+  "code": "皖C",
+  "province": "安徽",
+  "city": "蚌埠",
+  "Pcode": "AH",
+  "placeCode": "340300"
+}, {
+  "code": "皖D",
+  "province": "安徽",
+  "city": "淮南",
+  "Pcode": "AH",
+  "placeCode": "340400"
+}, {
+  "code": "皖E",
+  "province": "安徽",
+  "city": "马鞍山",
+  "Pcode": "AH",
+  "placeCode": "340500"
+}, {
+  "code": "皖F",
+  "province": "安徽",
+  "city": "淮北",
+  "Pcode": "AH",
+  "placeCode": "340600"
+}, {
+  "code": "皖G",
+  "province": "安徽",
+  "city": "铜陵",
+  "Pcode": "AH",
+  "placeCode": "340721"
+}, {
+  "code": "皖H",
+  "province": "安徽",
+  "city": "安庆",
+  "Pcode": "AH",
+  "placeCode": "340800"
+}, {
+  "code": "皖J",
+  "province": "安徽",
+  "city": "黄山",
+  "Pcode": "AH",
+  "placeCode": "341003"
+}, {
+  "code": "皖K",
+  "province": "安徽",
+  "city": "阜阳",
+  "Pcode": "AH",
+  "placeCode": "341200"
+}, {
+  "code": "皖L",
+  "province": "安徽",
+  "city": "宿州",
+  "Pcode": "AH",
+  "placeCode": "341300"
+}, {
+  "code": "皖M",
+  "province": "安徽",
+  "city": "滁州",
+  "Pcode": "AH",
+  "placeCode": "341100"
+}, {
+  "code": "皖N",
+  "province": "安徽",
+  "city": "六安",
+  "Pcode": "AH",
+  "placeCode": "341500"
+}, {
+  "code": "皖P",
+  "province": "安徽",
+  "city": "宣城",
+  "Pcode": "AH",
+  "placeCode": "341800"
+}, {
+  "code": "皖Q",
+  "province": "安徽",
+  "city": "巢湖",
+  "Pcode": "AH",
+  "placeCode": "340181"
+}, {
+  "code": "皖R",
+  "province": "安徽",
+  "city": "池州",
+  "Pcode": "AH",
+  "placeCode": "341700"
+}, {
+  "code": "皖S",
+  "province": "安徽",
+  "city": "亳州",
+  "Pcode": "AH",
+  "placeCode": "341600"
+}, {
+  "code": "苏A",
+  "province": "江苏",
+  "city": "南京",
+  "Pcode": "JS",
+  "placeCode": "320100"
+}, {
+  "code": "苏B",
+  "province": "江苏",
+  "city": "无锡",
+  "Pcode": "JS",
+  "placeCode": "320200"
+}, {
+  "code": "苏C",
+  "province": "江苏",
+  "city": "徐州",
+  "Pcode": "JS",
+  "placeCode": "320300"
+}, {
+  "code": "苏D",
+  "province": "江苏",
+  "city": "常州",
+  "Pcode": "JS",
+  "placeCode": "320400"
+}, {
+  "code": "苏E",
+  "province": "江苏",
+  "city": "苏州",
+  "Pcode": "JS",
+  "placeCode": "320500"
+}, {
+  "code": "苏F",
+  "province": "江苏",
+  "city": "南通",
+  "Pcode": "JS",
+  "placeCode": "320600"
+}, {
+  "code": "苏G",
+  "province": "江苏",
+  "city": "连云港",
+  "Pcode": "JS",
+  "placeCode": "320700"
+}, {
+  "code": "苏H",
+  "province": "江苏",
+  "city": "淮安",
+  "Pcode": "JS",
+  "placeCode": "320800"
+}, {
+  "code": "苏J",
+  "province": "江苏",
+  "city": "盐城",
+  "Pcode": "JS",
+  "placeCode": "320900"
+}, {
+  "code": "苏K",
+  "province": "江苏",
+  "city": "扬州",
+  "Pcode": "JS",
+  "placeCode": "321000"
+}, {
+  "code": "苏L",
+  "province": "江苏",
+  "city": "镇江",
+  "Pcode": "JS",
+  "placeCode": "321100"
+}, {
+  "code": "苏M",
+  "province": "江苏",
+  "city": "泰州",
+  "Pcode": "JS",
+  "placeCode": "321200"
+}, {
+  "code": "苏N",
+  "province": "江苏",
+  "city": "宿迁",
+  "Pcode": "JS",
+  "placeCode": "321300"
+}, {
+  "code": "鄂A",
+  "province": "湖北",
+  "city": "武汉",
+  "Pcode": "HB",
+  "placeCode": "420100"
+}, {
+  "code": "鄂B",
+  "province": "湖北",
+  "city": "黄石",
+  "Pcode": "HB",
+  "placeCode": "420202"
+}, {
+  "code": "鄂C",
+  "province": "湖北",
+  "city": "十堰",
+  "Pcode": "HB",
+  "placeCode": "420300"
+}, {
+  "code": "鄂D",
+  "province": "湖北",
+  "city": "荆州",
+  "Pcode": "HB",
+  "placeCode": "421000"
+}, {
+  "code": "鄂E",
+  "province": "湖北",
+  "city": "宜昌",
+  "Pcode": "HB",
+  "placeCode": "420500"
+}, {
+  "code": "鄂F",
+  "province": "湖北",
+  "city": "襄樊",
+  "Pcode": "HB"
+}, {
+  "code": "鄂G",
+  "province": "湖北",
+  "city": "鄂州",
+  "Pcode": "HB",
+  "placeCode": "420700"
+}, {
+  "code": "鄂H",
+  "province": "湖北",
+  "city": "荆门 ",
+  "Pcode": "HB",
+  "placeCode": "420800"
+}, {
+  "code": "鄂J",
+  "province": "湖北",
+  "city": "黄冈",
+  "Pcode": "HB",
+  "placeCode": "421100"
+}, {
+  "code": "鄂K",
+  "province": "湖北",
+  "city": "孝感",
+  "Pcode": "HB",
+  "placeCode": "420900"
+}, {
+  "code": "鄂L",
+  "province": "湖北",
+  "city": "咸宁",
+  "Pcode": "HB",
+  "placeCode": "421200"
+}, {
+  "code": "鄂M",
+  "province": "湖北",
+  "city": "仙桃",
+  "Pcode": "HB",
+  "placeCode": "429004"
+}, {
+  "code": "鄂N",
+  "province": "湖北",
+  "city": "潜江",
+  "Pcode": "HB",
+  "placeCode": "429005"
+}, {
+  "code": "鄂P",
+  "province": "湖北",
+  "city": "神农架林区",
+  "Pcode": "HB",
+  "placeCode": "429021"
+}, {
+  "code": "鄂Q",
+  "province": "湖北",
+  "city": "恩施土家族苗族自治州",
+  "Pcode": "HB",
+  "placeCode": "422800"
+}, {
+  "code": "鄂R",
+  "province": "湖北",
+  "city": "天门",
+  "Pcode": "HB",
+  "placeCode": "429006"
+}, {
+  "code": "鄂S",
+  "province": "湖北",
+  "city": "随州",
+  "Pcode": "HB",
+  "placeCode": "421300"
+}, {
+  "code": "晋A",
+  "province": "山西",
+  "city": "太原",
+  "Pcode": "SX",
+  "placeCode": "140100"
+}, {
+  "code": "晋B",
+  "province": "山西",
+  "city": "大同",
+  "Pcode": "SX",
+  "placeCode": "230606"
+}, {
+  "code": "晋C",
+  "province": "山西",
+  "city": "阳泉",
+  "Pcode": "SX",
+  "placeCode": "140300"
+}, {
+  "code": "晋D",
+  "province": "山西",
+  "city": "长治",
+  "Pcode": "SX",
+  "placeCode": "140400"
+}, {
+  "code": "晋E",
+  "province": "山西",
+  "city": "晋城",
+  "Pcode": "SX",
+  "placeCode": "140500"
+}, {
+  "code": "晋F",
+  "province": "山西",
+  "city": "朔州",
+  "Pcode": "SX",
+  "placeCode": "140600"
+}, {
+  "code": "晋H",
+  "province": "山西",
+  "city": "忻州",
+  "Pcode": "SX",
+  "placeCode": "140900"
+}, {
+  "code": "晋J",
+  "province": "山西",
+  "city": "吕梁地区",
+  "Pcode": "SX"
+}, {
+  "code": "晋K",
+  "province": "山西",
+  "city": "晋中",
+  "Pcode": "SX",
+  "placeCode": "140700"
+}, {
+  "code": "晋L",
+  "province": "山西",
+  "city": "临汾",
+  "Pcode": "SX",
+  "placeCode": "141000"
+}, {
+  "code": "晋M",
+  "province": "山西",
+  "city": "运城",
+  "Pcode": "SX",
+  "placeCode": "140800"
+}, {
+  "code": "吉A",
+  "province": "吉林",
+  "city": "长春",
+  "Pcode": "JL",
+  "placeCode": "220100"
+}, {
+  "code": "吉B",
+  "province": "吉林",
+  "city": "吉林",
+  "Pcode": "JL",
+  "placeCode": "220200"
+}, {
+  "code": "吉C",
+  "province": "吉林",
+  "city": "四平",
+  "Pcode": "JL",
+  "placeCode": "220300"
+}, {
+  "code": "吉D",
+  "province": "吉林",
+  "city": "辽源",
+  "Pcode": "JL",
+  "placeCode": "220400"
+}, {
+  "code": "吉E",
+  "province": "吉林",
+  "city": "通化",
+  "Pcode": "JL",
+  "placeCode": "220500"
+}, {
+  "code": "吉F",
+  "province": "吉林",
+  "city": "白山",
+  "Pcode": "JL",
+  "placeCode": "220600"
+}, {
+  "code": "吉G",
+  "province": "吉林",
+  "city": "白城",
+  "Pcode": "JL",
+  "placeCode": "220800"
+}, {
+  "code": "吉H",
+  "province": "吉林",
+  "city": "延边朝鲜族自治州",
+  "Pcode": "JL",
+  "placeCode": "222400"
+}, {
+  "code": "吉J",
+  "province": "吉林",
+  "city": "松原",
+  "Pcode": "JL",
+  "placeCode": "220700"
+}, {
+  "code": "吉K",
+  "province": "吉林",
+  "city": "长白山",
+  "Pcode": "JL"
+}, {
+  "code": "粤A",
+  "province": "广东",
+  "city": "广州",
+  "Pcode": "GD",
+  "placeCode": "440100"
+}, {
+  "code": "粤B",
+  "province": "广东",
+  "city": "深圳",
+  "Pcode": "GD",
+  "placeCode": "440300"
+}, {
+  "code": "粤C",
+  "province": "广东",
+  "city": "珠海",
+  "Pcode": "GD",
+  "placeCode": "440400"
+}, {
+  "code": "粤D",
+  "province": "广东",
+  "city": "汕头",
+  "Pcode": "GD",
+  "placeCode": "440500"
+}, {
+  "code": "粤E",
+  "province": "广东",
+  "city": "佛山",
+  "Pcode": "GD",
+  "placeCode": "440600"
+}, {
+  "code": "粤F",
+  "province": "广东",
+  "city": "韶关",
+  "Pcode": "GD",
+  "placeCode": "440200"
+}, {
+  "code": "粤G",
+  "province": "广东",
+  "city": "湛江",
+  "Pcode": "GD",
+  "placeCode": "440800"
+}, {
+  "code": "粤H",
+  "province": "广东",
+  "city": "肇庆",
+  "Pcode": "GD",
+  "placeCode": "441200"
+}, {
+  "code": "粤J",
+  "province": "广东",
+  "city": "江门",
+  "Pcode": "GD",
+  "placeCode": "440700"
+}, {
+  "code": "粤K",
+  "province": "广东",
+  "city": "茂名",
+  "Pcode": "GD",
+  "placeCode": "440900"
+}, {
+  "code": "粤L",
+  "province": "广东",
+  "city": "惠州",
+  "Pcode": "GD",
+  "placeCode": "441300"
+}, {
+  "code": "粤M",
+  "province": "广东",
+  "city": "梅州",
+  "Pcode": "GD",
+  "placeCode": "441400"
+}, {
+  "code": "粤N",
+  "province": "广东",
+  "city": "汕尾",
+  "Pcode": "GD",
+  "placeCode": "441500"
+}, {
+  "code": "粤P",
+  "province": "广东",
+  "city": "河源",
+  "Pcode": "GD",
+  "placeCode": "441600"
+}, {
+  "code": "粤Q",
+  "province": "广东",
+  "city": "阳江",
+  "Pcode": "GD",
+  "placeCode": "441700"
+}, {
+  "code": "粤R",
+  "province": "广东",
+  "city": "清远",
+  "Pcode": "GD",
+  "placeCode": "441800"
+}, {
+  "code": "粤S",
+  "province": "广东",
+  "city": "东莞",
+  "Pcode": "GD",
+  "placeCode": "441900"
+}, {
+  "code": "粤T",
+  "province": "广东",
+  "city": "中山",
+  "Pcode": "GD",
+  "placeCode": "442000"
+}, {
+  "code": "粤U",
+  "province": "广东",
+  "city": "潮州",
+  "Pcode": "GD",
+  "placeCode": "445100"
+}, {
+  "code": "粤V",
+  "province": "广东",
+  "city": "揭阳",
+  "Pcode": "GD",
+  "placeCode": "445200"
+}, {
+  "code": "粤W",
+  "province": "广东",
+  "city": "云浮",
+  "Pcode": "GD",
+  "placeCode": "445300"
+}, {
+  "code": "粤X",
+  "province": "广东",
+  "city": "顺德区",
+  "Pcode": "GD",
+  "placeCode": "440606"
+}, {
+  "code": "粤Y",
+  "province": "广东",
+  "city": "南海区",
+  "Pcode": "GD",
+  "placeCode": "440605"
+}, {
+  "code": "粤Z",
+  "province": "广东",
+  "city": "港澳进入内地车辆",
+  "Pcode": "GD"
+}, {
+  "code": "宁A",
+  "province": "宁夏",
+  "city": "银川",
+  "Pcode": "NX",
+  "placeCode": "640100"
+}, {
+  "code": "宁B",
+  "province": "宁夏",
+  "city": "石嘴山",
+  "Pcode": "NX",
+  "placeCode": "640200"
+}, {
+  "code": "宁C",
+  "province": "宁夏",
+  "city": "银南",
+  "Pcode": "NX"
+}, {
+  "code": "宁D",
+  "province": "宁夏",
+  "city": "固原",
+  "Pcode": "NX",
+  "placeCode": "640400"
+}, {
+  "code": "宁E",
+  "province": "宁夏",
+  "city": "中卫",
+  "Pcode": "NX",
+  "placeCode": "640500"
+}, {
+  "code": "京A",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京B",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京C",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京D",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京E",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京F",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京G",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京H",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京J",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京K",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京L",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京M",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "京Y",
+  "province": "北京",
+  "city": "北京",
+  "Pcode": "BJ",
+  "placeCode": "110000"
+}, {
+  "code": "豫A",
+  "province": "河南",
+  "city": "郑州",
+  "Pcode": "HN",
+  "placeCode": "410100"
+}, {
+  "code": "豫B",
+  "province": "河南",
+  "city": "开封",
+  "Pcode": "HN",
+  "placeCode": "410224"
+}, {
+  "code": "豫C",
+  "province": "河南",
+  "city": "洛阳",
+  "Pcode": "HN",
+  "placeCode": "410300"
+}, {
+  "code": "豫D",
+  "province": "河南",
+  "city": "平顶山",
+  "Pcode": "HN",
+  "placeCode": "410400"
+}, {
+  "code": "豫E",
+  "province": "河南",
+  "city": "安阳",
+  "Pcode": "HN",
+  "placeCode": "410522"
+}, {
+  "code": "豫F",
+  "province": "河南",
+  "city": "鹤壁",
+  "Pcode": "HN",
+  "placeCode": "410600"
+}, {
+  "code": "豫G",
+  "province": "河南",
+  "city": "新乡",
+  "Pcode": "HN",
+  "placeCode": "410721"
+}, {
+  "code": "豫H",
+  "province": "河南",
+  "city": "焦作",
+  "Pcode": "HN",
+  "placeCode": "410800"
+}, {
+  "code": "豫J",
+  "province": "河南",
+  "city": "濮阳",
+  "Pcode": "HN",
+  "placeCode": "410900"
+}, {
+  "code": "豫K",
+  "province": "河南",
+  "city": "许昌",
+  "Pcode": "HN",
+  "placeCode": "411023"
+}, {
+  "code": "豫L",
+  "province": "河南",
+  "city": "漯河",
+  "Pcode": "HN",
+  "placeCode": "411100"
+}, {
+  "code": "豫M",
+  "province": "河南",
+  "city": "三门峡",
+  "Pcode": "HN",
+  "placeCode": "411200"
+}, {
+  "code": "豫N",
+  "province": "河南",
+  "city": "商丘",
+  "Pcode": "HN",
+  "placeCode": "411400"
+}, {
+  "code": "豫P",
+  "province": "河南",
+  "city": "周口",
+  "Pcode": "HN",
+  "placeCode": "411600"
+}, {
+  "code": "豫Q",
+  "province": "河南",
+  "city": "驻马店",
+  "Pcode": "HN",
+  "placeCode": "411700"
+}, {
+  "code": "豫R",
+  "province": "河南",
+  "city": "南阳",
+  "Pcode": "HN",
+  "placeCode": "411300"
+}, {
+  "code": "豫S",
+  "province": "河南",
+  "city": "信阳",
+  "Pcode": "HN",
+  "placeCode": "411500"
+}, {
+  "code": "豫U",
+  "province": "河南",
+  "city": "济源",
+  "Pcode": "HN",
+  "placeCode": "419001"
+}, {
+  "code": "黑A",
+  "province": "黑龙江",
+  "city": "哈尔滨",
+  "Pcode": "HLJ",
+  "placeCode": "230100"
+}, {
+  "code": "黑B",
+  "province": "黑龙江",
+  "city": "齐齐哈尔",
+  "Pcode": "HLJ",
+  "placeCode": "230200"
+}, {
+  "code": "黑C",
+  "province": "黑龙江",
+  "city": "牡丹江",
+  "Pcode": "HLJ",
+  "placeCode": "231000"
+}, {
+  "code": "黑D",
+  "province": "黑龙江",
+  "city": "佳木斯",
+  "Pcode": "HLJ",
+  "placeCode": "230800"
+}, {
+  "code": "黑E",
+  "province": "黑龙江",
+  "city": "大庆",
+  "Pcode": "HLJ",
+  "placeCode": "230600"
+}, {
+  "code": "黑F",
+  "province": "黑龙江",
+  "city": "伊春",
+  "Pcode": "HLJ",
+  "placeCode": "230702"
+}, {
+  "code": "黑G",
+  "province": "黑龙江",
+  "city": "鸡西",
+  "Pcode": "HLJ",
+  "placeCode": "230300"
+}, {
+  "code": "黑H",
+  "province": "黑龙江",
+  "city": "鹤岗",
+  "Pcode": "HLJ",
+  "placeCode": "230400"
+}, {
+  "code": "黑J",
+  "province": "黑龙江",
+  "city": "双鸭山",
+  "Pcode": "HLJ",
+  "placeCode": "230500"
+}, {
+  "code": "黑K",
+  "province": "黑龙江",
+  "city": "七台河",
+  "Pcode": "HLJ",
+  "placeCode": "230900"
+}, {
+  "code": "黑L",
+  "province": "黑龙江",
+  "city": "松花江地区",
+  "Pcode": "HLJ"
+}, {
+  "code": "黑M",
+  "province": "黑龙江",
+  "city": "绥化",
+  "Pcode": "HLJ",
+  "placeCode": "231200"
+}, {
+  "code": "黑N",
+  "province": "黑龙江",
+  "city": "黑河",
+  "Pcode": "HLJ",
+  "placeCode": "231100"
+}, {
+  "code": "黑P",
+  "province": "黑龙江",
+  "city": "大兴安岭地区",
+  "Pcode": "HLJ",
+  "placeCode": "232700"
+}, {
+  "code": "黑R",
+  "province": "黑龙江",
+  "city": "农垦系统",
+  "Pcode": "HLJ"
+}, {
+  "code": "鲁A ",
+  "province": "山东",
+  "city": "济南",
+  "Pcode": "SD",
+  "placeCode": "370100"
+}, {
+  "code": "鲁B",
+  "province": "山东",
+  "city": "青岛",
+  "Pcode": "SD",
+  "placeCode": "370200"
+}, {
+  "code": "鲁C",
+  "province": "山东",
+  "city": "淄博",
+  "Pcode": "SD",
+  "placeCode": "370300"
+}, {
+  "code": "鲁D",
+  "province": "山东",
+  "city": "枣庄",
+  "Pcode": "SD",
+  "placeCode": "370400"
+}, {
+  "code": "鲁E",
+  "province": "山东",
+  "city": "东营",
+  "Pcode": "SD",
+  "placeCode": "370502"
+}, {
+  "code": "鲁F",
+  "province": "山东",
+  "city": "烟台",
+  "Pcode": "SD",
+  "placeCode": "370600"
+}, {
+  "code": "鲁G",
+  "province": "山东",
+  "city": "潍坊",
+  "Pcode": "SD",
+  "placeCode": "370700"
+}, {
+  "code": "鲁H",
+  "province": "山东",
+  "city": "济宁",
+  "Pcode": "SD",
+  "placeCode": "370800"
+}, {
+  "code": "鲁J",
+  "province": "山东",
+  "city": "泰安",
+  "Pcode": "SD",
+  "placeCode": "370900"
+}, {
+  "code": "鲁K",
+  "province": "山东",
+  "city": "威海",
+  "Pcode": "SD",
+  "placeCode": "371000"
+}, {
+  "code": "鲁L",
+  "province": "山东",
+  "city": "日照",
+  "Pcode": "SD",
+  "placeCode": "371100"
+}, {
+  "code": "鲁M",
+  "province": "山东",
+  "city": "滨州",
+  "Pcode": "SD",
+  "placeCode": "371600"
+}, {
+  "code": "鲁N",
+  "province": "山东",
+  "city": "德州",
+  "Pcode": "SD",
+  "placeCode": "371400"
+}, {
+  "code": "鲁P",
+  "province": "山东",
+  "city": "聊城",
+  "Pcode": "SD",
+  "placeCode": "371500"
+}, {
+  "code": "鲁Q",
+  "province": "山东",
+  "city": "临沂",
+  "Pcode": "SD",
+  "placeCode": "371300"
+}, {
+  "code": "鲁R",
+  "province": "山东",
+  "city": "菏泽",
+  "Pcode": "SD",
+  "placeCode": "371700"
+}, {
+  "code": "鲁S",
+  "province": "山东",
+  "city": "莱芜",
+  "Pcode": "SD",
+  "placeCode": "371200"
+}, {
+  "code": "鲁U",
+  "province": "山东",
+  "city": "青岛增补",
+  "Pcode": "SD"
+}, {
+  "code": "鲁V",
+  "province": "山东",
+  "city": "潍坊增补",
+  "Pcode": "SD"
+}, {
+  "code": "鲁Y",
+  "province": "山东",
+  "city": "烟台",
+  "Pcode": "SD",
+  "placeCode": "370600"
+}, {
+  "code": "浙A",
+  "province": "浙江",
+  "city": "杭州",
+  "Pcode": "ZJ",
+  "placeCode": "330100"
+}, {
+  "code": "浙B",
+  "province": "浙江",
+  "city": "宁波",
+  "Pcode": "ZJ",
+  "placeCode": "330200"
+}, {
+  "code": "浙C",
+  "province": "浙江",
+  "city": "温州",
+  "Pcode": "ZJ",
+  "placeCode": "330300"
+}, {
+  "code": "浙D",
+  "province": "浙江",
+  "city": "绍兴",
+  "Pcode": "ZJ",
+  "placeCode": "330600"
+}, {
+  "code": "浙E",
+  "province": "浙江",
+  "city": "湖州",
+  "Pcode": "ZJ",
+  "placeCode": "330500"
+}, {
+  "code": "浙F",
+  "province": "浙江",
+  "city": "嘉兴",
+  "Pcode": "ZJ",
+  "placeCode": "330400"
+}, {
+  "code": "浙G",
+  "province": "浙江",
+  "city": "金华",
+  "Pcode": "ZJ",
+  "placeCode": "330700"
+}, {
+  "code": "浙H",
+  "province": "浙江",
+  "city": "衢州",
+  "Pcode": "ZJ",
+  "placeCode": "330800"
+}, {
+  "code": "浙J",
+  "province": "浙江",
+  "city": "台州",
+  "Pcode": "ZJ",
+  "placeCode": "331000"
+}, {
+  "code": "浙K",
+  "province": "浙江",
+  "city": "丽水",
+  "Pcode": "ZJ",
+  "placeCode": "331100"
+}, {
+  "code": "浙L",
+  "province": "浙江",
+  "city": "舟山",
+  "Pcode": "ZJ",
+  "placeCode": "330900"
+}, {
+  "code": "桂A",
+  "province": "广西",
+  "city": "南宁",
+  "Pcode": "GX",
+  "placeCode": "450100"
+}, {
+  "code": "桂B",
+  "province": "广西",
+  "city": "柳州",
+  "Pcode": "GX",
+  "placeCode": "450200"
+}, {
+  "code": "桂C",
+  "province": "广西",
+  "city": "桂林",
+  "Pcode": "GX",
+  "placeCode": "450300"
+}, {
+  "code": "桂D",
+  "province": "广西",
+  "city": "梧州",
+  "Pcode": "GX",
+  "placeCode": "450400"
+}, {
+  "code": "桂E",
+  "province": "广西",
+  "city": "北海",
+  "Pcode": "GX",
+  "placeCode": "450500"
+}, {
+  "code": "桂F",
+  "province": "广西",
+  "city": "崇左",
+  "Pcode": "GX",
+  "placeCode": "451400"
+}, {
+  "code": "桂G",
+  "province": "广西",
+  "city": "来宾",
+  "Pcode": "GX",
+  "placeCode": "451300"
+}, {
+  "code": "桂H",
+  "province": "广西",
+  "city": "桂林地区",
+  "Pcode": "GX"
+}, {
+  "code": "桂J",
+  "province": "广西",
+  "city": "贺州",
+  "Pcode": "GX",
+  "placeCode": "451100"
+}, {
+  "code": "桂K",
+  "province": "广西",
+  "city": "玉林",
+  "Pcode": "GX",
+  "placeCode": "450900"
+}, {
+  "code": "桂L",
+  "province": "广西",
+  "city": "百色",
+  "Pcode": "GX",
+  "placeCode": "451000"
+}, {
+  "code": "桂M",
+  "province": "广西",
+  "city": "河池",
+  "Pcode": "GX",
+  "placeCode": "451200"
+}, {
+  "code": "桂N",
+  "province": "广西",
+  "city": "钦州",
+  "Pcode": "GX",
+  "placeCode": "450700"
+}, {
+  "code": "桂P",
+  "province": "广西",
+  "city": "防城港",
+  "Pcode": "GX",
+  "placeCode": "450600"
+}, {
+  "code": "桂R",
+  "province": "广西",
+  "city": "贵港",
+  "Pcode": "GX",
+  "placeCode": "450800"
+}, {
+  "code": "蒙A",
+  "province": "内蒙古",
+  "city": "呼和浩特",
+  "Pcode": "NMG",
+  "placeCode": "150100"
+}, {
+  "code": "蒙B",
+  "province": "内蒙古",
+  "city": "包头",
+  "Pcode": "NMG",
+  "placeCode": "150200"
+}, {
+  "code": "蒙C",
+  "province": "内蒙古",
+  "city": "乌海",
+  "Pcode": "NMG",
+  "placeCode": "150300"
+}, {
+  "code": "蒙D",
+  "province": "内蒙古",
+  "city": "赤峰",
+  "Pcode": "NMG",
+  "placeCode": "150400"
+}, {
+  "code": "蒙E",
+  "province": "内蒙古",
+  "city": "呼伦贝尔 ",
+  "Pcode": "NMG",
+  "placeCode": "150700"
+}, {
+  "code": "蒙F",
+  "province": "内蒙古",
+  "city": "兴安盟",
+  "Pcode": "NMG",
+  "placeCode": "152200"
+}, {
+  "code": "蒙G",
+  "province": "内蒙古",
+  "city": "通辽",
+  "Pcode": "NMG",
+  "placeCode": "150500"
+}, {
+  "code": "蒙H",
+  "province": "内蒙古",
+  "city": "锡林郭勒盟",
+  "Pcode": "NMG",
+  "placeCode": "152500"
+}, {
+  "code": "蒙J",
+  "province": "内蒙古",
+  "city": "乌兰察布盟",
+  "Pcode": "NMG"
+}, {
+  "code": "蒙K",
+  "province": "内蒙古",
+  "city": "鄂尔多斯 ",
+  "Pcode": "NMG",
+  "placeCode": "150600"
+}, {
+  "code": "蒙L",
+  "province": "内蒙古",
+  "city": "巴彦淖尔盟",
+  "Pcode": "NMG"
+}, {
+  "code": "蒙M　",
+  "province": "内蒙古",
+  "city": "　阿拉善盟",
+  "Pcode": "NMG"
+}, {
+  "code": "闽A",
+  "province": "福建",
+  "city": "福州",
+  "Pcode": "FJ",
+  "placeCode": "350100"
+}, {
+  "code": "闽B",
+  "province": "福建",
+  "city": "莆田",
+  "Pcode": "FJ",
+  "placeCode": "350300"
+}, {
+  "code": "闽C",
+  "province": "福建",
+  "city": "泉州",
+  "Pcode": "FJ",
+  "placeCode": "350500"
+}, {
+  "code": "闽D",
+  "province": "福建",
+  "city": "厦门",
+  "Pcode": "FJ",
+  "placeCode": "350200"
+}, {
+  "code": "闽E",
+  "province": "福建",
+  "city": "漳州",
+  "Pcode": "FJ",
+  "placeCode": "350600"
+}, {
+  "code": "闽F",
+  "province": "福建",
+  "city": "龙岩",
+  "Pcode": "FJ",
+  "placeCode": "350800"
+}, {
+  "code": "闽G",
+  "province": "福建",
+  "city": "三明",
+  "Pcode": "FJ",
+  "placeCode": "350400"
+}, {
+  "code": "闽H",
+  "province": "福建",
+  "city": "南平",
+  "Pcode": "FJ",
+  "placeCode": "350700"
+}, {
+  "code": "闽J",
+  "province": "福建",
+  "city": "宁德",
+  "Pcode": "FJ",
+  "placeCode": "350900"
+}, {
+  "code": "闽K",
+  "province": "福建",
+  "city": "直系统",
+  "Pcode": "FJ"
+}, {
+  "code": "川A",
+  "province": "四川",
+  "city": "成都",
+  "Pcode": "SC",
+  "placeCode": "510100"
+}, {
+  "code": "川B",
+  "province": "四川",
+  "city": "绵阳",
+  "Pcode": "SC",
+  "placeCode": "510700"
+}, {
+  "code": "川C",
+  "province": "四川",
+  "city": "自贡",
+  "Pcode": "SC",
+  "placeCode": "510300"
+}, {
+  "code": "川D",
+  "province": "四川",
+  "city": "攀枝花",
+  "Pcode": "SC",
+  "placeCode": "510400"
+}, {
+  "code": "川E",
+  "province": "四川",
+  "city": "泸州",
+  "Pcode": "SC",
+  "placeCode": "510500"
+}, {
+  "code": "川F",
+  "province": "四川",
+  "city": "德阳",
+  "Pcode": "SC",
+  "placeCode": "510600"
+}, {
+  "code": "川H",
+  "province": "四川",
+  "city": "广元",
+  "Pcode": "SC",
+  "placeCode": "510800"
+}, {
+  "code": "川J",
+  "province": "四川",
+  "city": "遂宁",
+  "Pcode": "SC",
+  "placeCode": "510900"
+}, {
+  "code": "川K",
+  "province": "四川",
+  "city": "内江",
+  "Pcode": "SC",
+  "placeCode": "511000"
+}, {
+  "code": "川L",
+  "province": "四川",
+  "city": "乐山",
+  "Pcode": "SC",
+  "placeCode": "511100"
+}, {
+  "code": "川M",
+  "province": "四川",
+  "city": "资阳",
+  "Pcode": "SC",
+  "placeCode": "430902"
+}, {
+  "code": "川Q",
+  "province": "四川",
+  "city": "宜宾",
+  "Pcode": "SC",
+  "placeCode": "511500"
+}, {
+  "code": "川R",
+  "province": "四川",
+  "city": "南充",
+  "Pcode": "SC",
+  "placeCode": "511300"
+}, {
+  "code": "川S",
+  "province": "四川",
+  "city": "达州",
+  "Pcode": "SC",
+  "placeCode": "511700"
+}, {
+  "code": "川T",
+  "province": "四川",
+  "city": "雅安",
+  "Pcode": "SC",
+  "placeCode": "511800"
+}, {
+  "code": "川U",
+  "province": "四川",
+  "city": "阿坝藏族羌族自治州",
+  "Pcode": "SC",
+  "placeCode": "513200"
+}, {
+  "code": "川V",
+  "province": "四川",
+  "city": "甘孜藏族自治州",
+  "Pcode": "SC",
+  "placeCode": "513300"
+}, {
+  "code": "川W",
+  "province": "四川",
+  "city": "凉山彝族自治州",
+  "Pcode": "SC",
+  "placeCode": "513400"
+}, {
+  "code": "川X",
+  "province": "四川",
+  "city": "广安",
+  "Pcode": "SC",
+  "placeCode": "511602"
+}, {
+  "code": "川Y",
+  "province": "四川",
+  "city": "巴中",
+  "Pcode": "SC",
+  "placeCode": "511900"
+}, {
+  "code": "川Z",
+  "province": "四川",
+  "city": "眉山",
+  "Pcode": "SC",
+  "placeCode": "511400"
+}, {
+  "code": "渝A",
+  "province": "重庆",
+  "city": "重庆区（江南）",
+  "Pcode": "ZQ"
+}, {
+  "code": "渝B",
+  "province": "重庆",
+  "city": "重庆区（江北）",
+  "Pcode": "ZQ"
+}, {
+  "code": "渝C",
+  "province": "重庆",
+  "city": "永川区",
+  "Pcode": "ZQ",
+  "placeCode": "500118"
+}, {
+  "code": "渝F",
+  "province": "重庆",
+  "city": "万州区",
+  "Pcode": "ZQ",
+  "placeCode": "500101"
+}, {
+  "code": "渝G",
+  "province": "重庆",
+  "city": "涪陵区",
+  "Pcode": "ZQ",
+  "placeCode": "500102"
+}, {
+  "code": "渝H",
+  "province": "重庆",
+  "city": "黔江区",
+  "Pcode": "ZQ",
+  "placeCode": "500114"
+}, {
+  "code": "津A",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津B",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津C",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津D",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津E",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津F",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津G",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "津H",
+  "province": "天津",
+  "city": "天津",
+  "Pcode": "TJ",
+  "placeCode": "120000"
+}, {
+  "code": "云A",
+  "province": "云南",
+  "city": "昆明",
+  "Pcode": "YN",
+  "placeCode": "530100"
+}, {
+  "code": "云A-V",
+  "province": "云南",
+  "city": "东川",
+  "Pcode": "YN",
+  "placeCode": "530113"
+}, {
+  "code": "云C",
+  "province": "云南",
+  "city": "昭通",
+  "Pcode": "YN",
+  "placeCode": "530600"
+}, {
+  "code": "云D",
+  "province": "云南",
+  "city": "曲靖",
+  "Pcode": "YN",
+  "placeCode": "530300"
+}, {
+  "code": "云E",
+  "province": "云南",
+  "city": "楚雄彝族自治州",
+  "Pcode": "YN",
+  "placeCode": "532300"
+}, {
+  "code": "云F",
+  "province": "云南",
+  "city": "玉溪",
+  "Pcode": "YN",
+  "placeCode": "530400"
+}, {
+  "code": "云G",
+  "province": "云南",
+  "city": "红河哈尼族彝族自治州",
+  "Pcode": "YN",
+  "placeCode": "532500"
+}, {
+  "code": "云H",
+  "province": "云南",
+  "city": "文山壮族苗族自治州",
+  "Pcode": "YN",
+  "placeCode": "532600"
+}, {
+  "code": "云J",
+  "province": "云南",
+  "city": "思茅",
+  "Pcode": "YN",
+  "placeCode": "530802"
+}, {
+  "code": "云K",
+  "province": "云南",
+  "city": "西双版纳傣族自治州",
+  "Pcode": "YN",
+  "placeCode": "532800"
+}, {
+  "code": "云L",
+  "province": "云南",
+  "city": "大理白族自治州",
+  "Pcode": "YN",
+  "placeCode": "532900"
+}, {
+  "code": "云M",
+  "province": "云南",
+  "city": "保山",
+  "Pcode": "YN",
+  "placeCode": "530500"
+}, {
+  "code": "云N",
+  "province": "云南",
+  "city": "德宏傣族景颇族自治州",
+  "Pcode": "YN",
+  "placeCode": "533100"
+}, {
+  "code": "云P",
+  "province": "云南",
+  "city": "丽江",
+  "Pcode": "YN",
+  "placeCode": "530700"
+}, {
+  "code": "云Q",
+  "province": "云南",
+  "city": "怒江傈僳族自治州",
+  "Pcode": "YN",
+  "placeCode": "533300"
+}, {
+  "code": "云R",
+  "province": "云南",
+  "city": "迪庆藏族自治州",
+  "Pcode": "YN",
+  "placeCode": "533400"
+}, {
+  "code": "云S",
+  "province": "云南",
+  "city": "临沧地区",
+  "Pcode": "YN"
+}, {
+  "code": "湘A ",
+  "province": "湖南",
+  "city": "长沙",
+  "Pcode": "HN",
+  "placeCode": "430100"
+}, {
+  "code": "湘B",
+  "province": "湖南",
+  "city": "株洲",
+  "Pcode": "HN",
+  "placeCode": "430200"
+}, {
+  "code": "湘C",
+  "province": "湖南",
+  "city": "湘潭",
+  "Pcode": "HN",
+  "placeCode": "430321"
+}, {
+  "code": "湘D",
+  "province": "湖南",
+  "city": "衡阳",
+  "Pcode": "HN",
+  "placeCode": "430400"
+}, {
+  "code": "湘E",
+  "province": "湖南",
+  "city": "邵阳",
+  "Pcode": "HN",
+  "placeCode": "430523"
+}, {
+  "code": "湘F",
+  "province": "湖南",
+  "city": "岳阳",
+  "Pcode": "HN",
+  "placeCode": "430600"
+}, {
+  "code": "湘G",
+  "province": "湖南",
+  "city": "张家界",
+  "Pcode": "HN",
+  "placeCode": "430800"
+}, {
+  "code": "湘H",
+  "province": "湖南",
+  "city": "益阳",
+  "Pcode": "HN",
+  "placeCode": "430900"
+}, {
+  "code": "湘J",
+  "province": "湖南",
+  "city": "常德",
+  "Pcode": "HN",
+  "placeCode": "430700"
+}, {
+  "code": "湘K",
+  "province": "湖南",
+  "city": "娄底",
+  "Pcode": "HN",
+  "placeCode": "431300"
+}, {
+  "code": "湘L",
+  "province": "湖南",
+  "city": "郴州",
+  "Pcode": "HN",
+  "placeCode": "431000"
+}, {
+  "code": "湘M",
+  "province": "湖南",
+  "city": "永州",
+  "Pcode": "HN",
+  "placeCode": "431100"
+}, {
+  "code": "湘N",
+  "province": "湖南",
+  "city": "怀化",
+  "Pcode": "HN",
+  "placeCode": "431200"
+}, {
+  "code": "湘U",
+  "province": "湖南",
+  "city": "湘西土家族苗族自治州",
+  "Pcode": "HN",
+  "placeCode": "433100"
+}, {
+  "code": "新A",
+  "province": "新疆",
+  "city": "乌鲁木齐",
+  "Pcode": "XJ",
+  "placeCode": "650121"
+}, {
+  "code": "新B",
+  "province": "新疆",
+  "city": "昌吉回族自治州",
+  "Pcode": "XJ",
+  "placeCode": "652300"
+}, {
+  "code": "新C",
+  "province": "新疆",
+  "city": "石河子",
+  "Pcode": "XJ",
+  "placeCode": "659001"
+}, {
+  "code": "新D",
+  "province": "新疆",
+  "city": "奎屯",
+  "Pcode": "XJ",
+  "placeCode": "654003"
+}, {
+  "code": "新E",
+  "province": "新疆",
+  "city": "博尔塔拉蒙古自治州",
+  "Pcode": "XJ",
+  "placeCode": "652700"
+}, {
+  "code": "新F",
+  "province": "新疆",
+  "city": "伊犁哈萨克自治州直辖县",
+  "Pcode": "XJ"
+}, {
+  "code": "新G",
+  "province": "新疆",
+  "city": "塔城",
+  "Pcode": "XJ",
+  "placeCode": "654201"
+}, {
+  "code": "新H",
+  "province": "新疆",
+  "city": "阿勒泰",
+  "Pcode": "XJ",
+  "placeCode": "654301"
+}, {
+  "code": "新J",
+  "province": "新疆",
+  "city": "克拉玛依",
+  "Pcode": "XJ",
+  "placeCode": "650203"
+}, {
+  "code": "新K",
+  "province": "新疆",
+  "city": "吐鲁番",
+  "Pcode": "XJ",
+  "placeCode": "652100"
+}, {
+  "code": "新L",
+  "province": "新疆",
+  "city": "哈密",
+  "Pcode": "XJ",
+  "placeCode": "652200"
+}, {
+  "code": "新M",
+  "province": "新疆",
+  "city": "巴音郭愣蒙古自治州",
+  "Pcode": "XJ"
+}, {
+  "code": "新N",
+  "province": "新疆",
+  "city": "阿克苏",
+  "Pcode": "XJ",
+  "placeCode": "652900"
+}, {
+  "code": "新P",
+  "province": "新疆",
+  "city": "克孜勒苏柯尔克孜自治州",
+  "Pcode": "XJ",
+  "placeCode": "653000"
+}, {
+  "code": "新Q",
+  "province": "新疆",
+  "city": "喀什",
+  "Pcode": "XJ",
+  "placeCode": "653101"
+}, {
+  "code": "新R",
+  "province": "新疆",
+  "city": "和田",
+  "Pcode": "XJ",
+  "placeCode": "653221"
+}, {
+  "code": "赣A",
+  "province": "江西",
+  "city": "南昌",
+  "Pcode": "JX",
+  "placeCode": "360121"
+}, {
+  "code": "赣B",
+  "province": "江西",
+  "city": "赣州",
+  "Pcode": "JX",
+  "placeCode": "360700"
+}, {
+  "code": "赣C",
+  "province": "江西",
+  "city": "宜春",
+  "Pcode": "JX",
+  "placeCode": "360900"
+}, {
+  "code": "赣D",
+  "province": "江西",
+  "city": "吉安",
+  "Pcode": "JX",
+  "placeCode": "360800"
+}, {
+  "code": "赣E",
+  "province": "江西",
+  "city": "上饶",
+  "Pcode": "JX",
+  "placeCode": "361100"
+}, {
+  "code": "赣F",
+  "province": "江西",
+  "city": "抚州",
+  "Pcode": "JX",
+  "placeCode": "361000"
+}, {
+  "code": "赣G",
+  "province": "江西",
+  "city": "九江",
+  "Pcode": "JX",
+  "placeCode": "360400"
+}, {
+  "code": "赣H",
+  "province": "江西",
+  "city": "景德镇",
+  "Pcode": "JX",
+  "placeCode": "360200"
+}, {
+  "code": "赣J",
+  "province": "江西",
+  "city": "萍乡",
+  "Pcode": "JX",
+  "placeCode": "360300"
+}, {
+  "code": "赣K",
+  "province": "江西",
+  "city": "新余",
+  "Pcode": "JX",
+  "placeCode": "360500"
+}, {
+  "code": "赣L",
+  "province": "江西",
+  "city": "鹰潭",
+  "Pcode": "JX",
+  "placeCode": "360600"
+}, {
+  "code": "赣M",
+  "province": "江西",
+  "city": "南昌,直系统",
+  "Pcode": "JX"
+}, {
+  "code": "甘A",
+  "province": "甘肃",
+  "city": "兰州",
+  "Pcode": "GS",
+  "placeCode": "620100"
+}, {
+  "code": "甘B",
+  "province": "甘肃",
+  "city": "嘉峪关",
+  "Pcode": "GS",
+  "placeCode": "620200"
+}, {
+  "code": "甘C",
+  "province": "甘肃",
+  "city": "金昌",
+  "Pcode": "GS",
+  "placeCode": "620300"
+}, {
+  "code": "甘D",
+  "province": "甘肃",
+  "city": "白银",
+  "Pcode": "GS",
+  "placeCode": "620402"
+}, {
+  "code": "甘E",
+  "province": "甘肃",
+  "city": "天水",
+  "Pcode": "GS",
+  "placeCode": "620500"
+}, {
+  "code": "甘F",
+  "province": "甘肃",
+  "city": "酒泉",
+  "Pcode": "GS",
+  "placeCode": "620900"
+}, {
+  "code": "甘G",
+  "province": "甘肃",
+  "city": "张掖",
+  "Pcode": "GS",
+  "placeCode": "620700"
+}, {
+  "code": "甘H",
+  "province": "甘肃",
+  "city": "武威",
+  "Pcode": "GS",
+  "placeCode": "620600"
+}, {
+  "code": "甘J",
+  "province": "甘肃",
+  "city": "定西",
+  "Pcode": "GS",
+  "placeCode": "621100"
+}, {
+  "code": "甘K",
+  "province": "甘肃",
+  "city": "陇南",
+  "Pcode": "GS",
+  "placeCode": "621200"
+}, {
+  "code": "甘L",
+  "province": "甘肃",
+  "city": "平凉",
+  "Pcode": "GS",
+  "placeCode": "620800"
+}, {
+  "code": "甘M",
+  "province": "甘肃",
+  "city": "庆阳",
+  "Pcode": "GS",
+  "placeCode": "621000"
+}, {
+  "code": "甘N",
+  "province": "甘肃",
+  "city": "临夏回族自治州",
+  "Pcode": "GS",
+  "placeCode": "622900"
+}, {
+  "code": "甘P",
+  "province": "甘肃",
+  "city": "甘南藏族自治州",
+  "Pcode": "GS",
+  "placeCode": "623000"
+}, {
+  "code": "陕A",
+  "province": "陕西",
+  "city": "西安",
+  "Pcode": "SX",
+  "placeCode": "610100"
+}, {
+  "code": "陕B",
+  "province": "陕西",
+  "city": "铜川",
+  "Pcode": "SX",
+  "placeCode": "610200"
+}, {
+  "code": "陕C",
+  "province": "陕西",
+  "city": "宝鸡",
+  "Pcode": "SX",
+  "placeCode": "610300"
+}, {
+  "code": "陕D",
+  "province": "陕西",
+  "city": "咸阳",
+  "Pcode": "SX",
+  "placeCode": "610400"
+}, {
+  "code": "陕E",
+  "province": "陕西",
+  "city": "渭南",
+  "Pcode": "SX",
+  "placeCode": "610500"
+}, {
+  "code": "陕F",
+  "province": "陕西",
+  "city": "汉中",
+  "Pcode": "SX",
+  "placeCode": "610700"
+}, {
+  "code": "陕G",
+  "province": "陕西",
+  "city": "安康",
+  "Pcode": "SX",
+  "placeCode": "610900"
+}, {
+  "code": "陕H",
+  "province": "陕西",
+  "city": "商洛",
+  "Pcode": "SX",
+  "placeCode": "611000"
+}, {
+  "code": "陕J",
+  "province": "陕西",
+  "city": "延安",
+  "Pcode": "SX",
+  "placeCode": "610600"
+}, {
+  "code": "陕K",
+  "province": "陕西",
+  "city": "榆林",
+  "Pcode": "SX",
+  "placeCode": "610800"
+}, {
+  "code": "陕V",
+  "province": "陕西",
+  "city": "杨凌高新农业示范区",
+  "Pcode": "SX"
+}, {
+  "code": "贵A",
+  "province": "贵州",
+  "city": "贵阳",
+  "Pcode": "GZ",
+  "placeCode": "520100"
+}, {
+  "code": "贵B",
+  "province": "贵州",
+  "city": "六盘水",
+  "Pcode": "GZ",
+  "placeCode": "520200"
+}, {
+  "code": "贵C",
+  "province": "贵州",
+  "city": "遵义",
+  "Pcode": "GZ",
+  "placeCode": "520300"
+}, {
+  "code": "贵D",
+  "province": "贵州",
+  "city": "铜仁",
+  "Pcode": "GZ",
+  "placeCode": "520600"
+}, {
+  "code": "贵E",
+  "province": "贵州",
+  "city": "黔西南布依族苗族自治州",
+  "Pcode": "GZ",
+  "placeCode": "522300"
+}, {
+  "code": "贵F",
+  "province": "贵州",
+  "city": "毕节",
+  "Pcode": "GZ",
+  "placeCode": "520500"
+}, {
+  "code": "贵G",
+  "province": "贵州",
+  "city": "安顺",
+  "Pcode": "GZ",
+  "placeCode": "520400"
+}, {
+  "code": "贵H",
+  "province": "贵州",
+  "city": "黔东南苗族侗族自治州",
+  "Pcode": "GZ",
+  "placeCode": "522600"
+}, {
+  "code": "贵J",
+  "province": "贵州",
+  "city": "黔南布依族苗族自治州",
+  "Pcode": "GZ",
+  "placeCode": "522700"
+}, {
+  "code": "青A",
+  "province": "青海",
+  "city": "西宁",
+  "Pcode": "QH",
+  "placeCode": "630100"
+}, {
+  "code": "青B",
+  "province": "青海",
+  "city": "海东",
+  "Pcode": "QH",
+  "placeCode": "632100"
+}, {
+  "code": "青C",
+  "province": "青海",
+  "city": "海北藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "632200"
+}, {
+  "code": "青D",
+  "province": "青海",
+  "city": "黄南藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "632300"
+}, {
+  "code": "青E",
+  "province": "青海",
+  "city": "藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "533400"
+}, {
+  "code": "青F",
+  "province": "青海",
+  "city": "果洛藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "632600"
+}, {
+  "code": "青G",
+  "province": "青海",
+  "city": "玉树藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "632700"
+}, {
+  "code": "青H",
+  "province": "青海",
+  "city": "海西蒙古族藏族自治州",
+  "Pcode": "QH",
+  "placeCode": "632800"
+}, {
+  "code": "藏A",
+  "province": "西藏",
+  "city": "拉萨",
+  "Pcode": "XC",
+  "placeCode": "540100"
+}, {
+  "code": "藏B",
+  "province": "西藏",
+  "city": "昌都地区",
+  "Pcode": "XC",
+  "placeCode": "542100"
+}, {
+  "code": "藏C",
+  "province": "西藏",
+  "city": "山南地区",
+  "Pcode": "XC",
+  "placeCode": "542200"
+}, {
+  "code": "藏D",
+  "province": "西藏",
+  "city": "日喀则地区",
+  "Pcode": "XC",
+  "placeCode": "542300"
+}, {
+  "code": "藏E",
+  "province": "西藏",
+  "city": "那曲地区",
+  "Pcode": "XC",
+  "placeCode": "542400"
+}, {
+  "code": "藏F",
+  "province": "西藏",
+  "city": "阿里地区",
+  "Pcode": "XC",
+  "placeCode": "542500"
+}, {
+  "code": "藏G",
+  "province": "西藏",
+  "city": "林芝地区",
+  "Pcode": "XC",
+  "placeCode": "542600"
+}, {
+  "code": "藏H",
+  "province": "西藏",
+  "city": "天全县车辆管理所",
+  "Pcode": "XC"
+}, {
+  "code": "藏J",
+  "province": "西藏",
+  "city": "格尔木车辆管理所",
+  "Pcode": "XC"
+}, {
+  "code": "琼A",
+  "province": "海南",
+  "city": "海口",
+  "Pcode": "HN",
+  "placeCode": "460100"
+}, {
+  "code": "琼B",
+  "province": "海南",
+  "city": "三亚",
+  "Pcode": "HN",
+  "placeCode": "460200"
+}, {
+  "code": "琼C",
+  "province": "海南",
+  "city": "琼海",
+  "Pcode": "HN",
+  "placeCode": "469002"
+}, {
+  "code": "琼D",
+  "province": "海南",
+  "city": "五指山",
+  "Pcode": "HN",
+  "placeCode": "469001"
+}, {
+  "code": "琼E",
+  "province": "海南",
+  "city": "洋浦开发区",
+  "Pcode": "HN"
+}, {
+  "code": "沪A",
+  "province": "上海",
+  "city": "上海",
+  "Pcode": "SH",
+  "placeCode": "310000"
+}, {
+  "code": "沪B",
+  "province": "上海",
+  "city": "上海",
+  "Pcode": "SH",
+  "placeCode": "310000"
+}, {
+  "code": "沪C",
+  "province": "上海",
+  "city": "上海",
+  "Pcode": "SH",
+  "placeCode": "310000"
+}, {
+  "code": "沪D",
+  "province": "上海",
+  "city": "上海",
+  "Pcode": "SH",
+  "placeCode": "310000"
+}, {
+  "code": "沪R",
+  "province": "上海",
+  "city": "崇明、长兴、横沙",
+  "Pcode": "SH"
+}]
